@@ -1,0 +1,10 @@
+{
+  "name": "Remix Smart Tech AI Assistant",
+  "description": "Smart Tech ka personal voice-enabled AI assistant, created by Pradeep Shaw.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
